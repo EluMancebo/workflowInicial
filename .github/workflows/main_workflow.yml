@@ -3,7 +3,7 @@ name: main_workflow
 on:
   push:
     branches:
-      - memes
+      - github_action_readme
 
 permissions:
   contents: write
